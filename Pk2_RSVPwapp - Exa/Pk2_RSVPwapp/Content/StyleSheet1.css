@@ -1,0 +1,35 @@
+﻿body {
+    background-image:url(266.jpg); text-align:center; font-family:Georgia, "Times New Roman", Times, serif; font-size:46px; color:gold;
+}
+.input-validation-valid {
+ 
+    border-radius:10px;
+    padding:5px 10px 10px;
+}
+.field-validation-error {
+color:#f00;
+ border-radius:10px;
+    padding:5px 10px 10px;
+}
+.field-validation-valid {
+    display:none;
+    border-radius:10px;
+    padding:5px 10px 10px;
+}
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color:#fee;
+    border-radius:10px;
+    padding:5px 10px 10px;
+}
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+     border-radius:10px;
+    padding:5px 10px 10px;
+}
+.valitation-summary-valid {
+    display: none;
+     border-radius:10px;
+    padding:5px 10px 10px;
+}
